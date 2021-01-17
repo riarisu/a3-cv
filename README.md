@@ -1,1 +1,2 @@
-# a3-sprites
+# a3-cv
+A3! Chibi Viewer
